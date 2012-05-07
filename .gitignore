@@ -1,0 +1,8 @@
+# Virtualenvwrapper folders
+bin
+include
+lib
+local
+
+# Python bytecode
+*.py[co]

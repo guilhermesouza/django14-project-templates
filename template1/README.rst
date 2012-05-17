@@ -19,6 +19,9 @@ Installation
 Creating the environment
 ========================
 
+Remove the wsgi.py::
+    rm wsgi.py
+
 Create a virtual python enviroment for the project. If you're not using virtualenv or virtualenvwrapper you may skip this step.
 
 For virtualenvwrapper::

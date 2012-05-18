@@ -15,7 +15,7 @@ $ git clone https://github.com/gilsondev/django14-project-templates templates
 2. Create the django project:
 
 ```bash
-$ django-admin.py startproject --template templates/<template folder> --extension py,md <yourprojectname>
+$ django-admin.py startproject --template templates/<template folder> --extension py,rst,conf <yourprojectname>
 ```
 
 Templates
@@ -24,5 +24,7 @@ Templates
 ### Template 1
 
 Example: [https://bitbucket.org/kplaube/klauslaube.com.br/](https://bitbucket.org/kplaube/klauslaube.com.br/)
+
+1. Rename project_name in ``MakeFile``.
 
 Author: Klaus Laube <klaube@gmail.com>

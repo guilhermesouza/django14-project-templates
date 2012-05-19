@@ -25,6 +25,14 @@ Templates
 
 Example: [https://bitbucket.org/kplaube/klauslaube.com.br/](https://bitbucket.org/kplaube/klauslaube.com.br/)
 
-1. Rename project_name in ``MakeFile``.
+1. Rename project_name in ``Makefile``.
 
 Author: Klaus Laube <klaube@gmail.com>
+
+### Template 2
+
+Example: [https://github.com/PythonBrasil8/pythonbrasil8](https://github.com/PythonBrasil8/pythonbrasil8)
+
+1. Rename project_name in ``Makefile``.
+
+Author: Python Brasil <https://github.com/PythonBrasil8>

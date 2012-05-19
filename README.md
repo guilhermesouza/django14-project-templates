@@ -27,7 +27,7 @@ Example: [https://bitbucket.org/kplaube/klauslaube.com.br/](https://bitbucket.or
 
 1. Rename project_name in ``Makefile``.
 
-Author: Klaus Laube <klaube@gmail.com>
+Author: Klaus Laube <kplaube@gmail.com>
 
 ### Template 2
 
